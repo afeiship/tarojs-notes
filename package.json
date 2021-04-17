@@ -1,0 +1,14 @@
+{
+  "name": "@jswork/tarojs-notes",
+  "version": "1.0.0",
+  "description": "Tarojs notes.",
+  "homepage": "https://github.com/afeiship/tarojs-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
